@@ -2,7 +2,7 @@ name: 'ZC Cards Pararaph'
 description: 'Installs Zoocha Cards Pararaph Component'
 type: 'Feature'
 recipes:
-  - zoocha-media-recipe
+  - zr-media-bundle
   - zr-paragraph-bundle
 
 config:
