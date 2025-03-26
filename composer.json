@@ -1,7 +1,7 @@
 {
     "name": "zr/zr-para-cards",
     "description": "ZR Cards - Paragraphs",
-    "type": "drupal-recipe",
+    "type": "drupal-custom-recipe",
     "require": {
         "php": ">=8.1"
     },
