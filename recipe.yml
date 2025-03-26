@@ -1,6 +1,9 @@
 name: 'ZR Cards Pararaph'
 description: 'Installs Zoocha Cards Pararaph Component'
 type: 'Feature'
+install:
+  - focal_point
+  - crop
 recipes:
   - zr-media-bundle
   - zr-paragraph-bundle
