@@ -5,7 +5,7 @@
     "require": {
         "php": ">=8.1",
         "zr/media-bundle": "1.0.0",
-        "zr/paragraph-bundle": "^1.0"
+        "zr/paragraph-bundle": "1.0.0"
     },
     "authors": [
         {
