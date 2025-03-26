@@ -11,7 +11,7 @@ To install the Zoocha Cards Pararaph, follow the steps below:
 4. Run the following command to execute the Zoocha Cards Pararaph installation:
 
     ```sh
-    ddev drush recipe recipes/custom/zc-para-cards
+    ddev drush recipe recipes/custom/zr-para-cards
     ```
 
 This command will execute the Zoocha Cards Pararaph installation.
