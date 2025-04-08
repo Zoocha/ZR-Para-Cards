@@ -45,8 +45,8 @@ content:
     weight: 0
     region: content
   field_title:
-    type: hidden
-    label: above
+    type: string
+    label: hidden
     settings:
       link_to_entity: false
     third_party_settings: {  }
