@@ -4,6 +4,7 @@ type: 'Feature'
 install:
   - focal_point
   - crop
+  - linkit
 recipes:
   - zr-media-bundle
   - zr-paragraph-bundle
