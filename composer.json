@@ -5,7 +5,8 @@
     "require": {
         "php": ">=8.1",
         "zr/zr-media-bundle": "^1.0",
-        "zr/zr-paragraph-bundle": "^1.0"
+        "zr/zr-paragraph-bundle": "^1.0",
+        "drupal/linit": "^7.0"
     },
     "authors": [
         {
